@@ -1,2 +1,2 @@
 # droplets-06
-Repository to test link to Zenodo sandbox
+Test Github repository to test link to Zenodo sandbox
